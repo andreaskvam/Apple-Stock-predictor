@@ -1,0 +1,35 @@
+se till att ha alla dependencies
+pip install bs4
+node.js
+npm install express
+npm install sqlite3
+npm install cors
+
+### npm install
+
+Vue
+npm install vue-router
+npm install axios
+
+### cd frontend -> npm install 
+
+npm install vue-simple-spinner --save.
+npm install chart.js --save.
+
+### local de-bug
+npm run serve
+
+cd app -> node index.js
+
+### 
+App.vue är den första komponenten som skapas 
+
+
+#### DEV STORY
+-- Är en databas överflödigt när vi egentligen hade kunnat webskrapa
+   aktiedatan direkt från yahoo finance och passat den vidare direkt till vår algo. 
+   nvm vi löste det genom att direkt läsa in en csv fil i projektet
+
+--Vercel orsakade problem så vi skippade det. Deploy till Heroku i framtiden?   
+
+--vue create vue-js-client-crud skapar Vue.
